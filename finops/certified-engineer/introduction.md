@@ -1,6 +1,17 @@
 # Introduction (1/11)
 
-[TOC]
+- [Why You're Here](#why-youre-here)
+  - [Welcome](#welcome)
+- [What is FinOps](#what-is-finops)
+  - [Introduction to FinOps](#introduction-to-finops)
+  - [Financial Accountability](#financial-accountability)
+  - [Usage Optimization & Rate Optimization](#usage-optimization--rate-optimization)
+  - [Bringing In FinOps](#bringing-in-finops)
+- [Why it Matters](#why-it-matters)
+  - [Why Do FinOps?](#why-do-finops)
+  - [FinOps Matters](#finops-matters)
+
+---
 
 ## Why You're Here
 
